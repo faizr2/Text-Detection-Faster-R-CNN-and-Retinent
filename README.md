@@ -25,8 +25,12 @@ Deep Learning School Project
 
 data/
 |-- icdar2015/
+
 |   |-- ch4_training_images/
+
 |   |-- ch4_training_localization_transcription_gt/
+
 |   |-- ch4_test_images/
+
 |   |-- ch4_test_localization_transcription_gt/
 
