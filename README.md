@@ -3,10 +3,6 @@ Deep Learning School Project
 
 Детекция текста на изображениях с использованием глубокого обучения
 
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/PyTorch-2.0+-red.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-
 Проект по детекции текста на изображениях с использованием трех различных архитектур нейронных сетей: Faster R-CNN, RetinaNet и кастомной архитектуры MyArch. Обучается на датасете ICDAR2015 для задачи обнаружения текста на изображении.
 
 Это учебный проект.
@@ -28,9 +24,9 @@ https://img.shields.io/badge/License-MIT-yellow.svg
 Датасет имеет такую структуру:
 
 data/
-├── icdar2015/
-│   ├── ch4_training_images/
-│   ├── ch4_training_localization_transcription_gt/
-│   ├── ch4_test_images/
-│   └── ch4_test_localization_transcription_gt/
+|-- icdar2015/
+|   |-- ch4_training_images/
+|   |-- ch4_training_localization_transcription_gt/
+|   |-- ch4_test_images/
+|   |-- ch4_test_localization_transcription_gt/
 
