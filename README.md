@@ -5,7 +5,7 @@ Deep Learning School Project
 
 Проект по детекции текста на изображениях с использованием трех различных архитектур нейронных сетей: Faster R-CNN, RetinaNet и кастомной архитектуры MyArch. Обучается на датасете ICDAR2015 для задачи обнаружения текста на изображении.
 
-Это учебный проект.
+# Это учебный проект.
 
 Особенности
 
@@ -24,13 +24,14 @@ Deep Learning School Project
 Датасет имеет такую структуру:
 
 data/
+
 |-- icdar2015/
 
-|   |-- ch4_training_images/
+    |-- ch4_training_images/
 
-|   |-- ch4_training_localization_transcription_gt/
+    |-- ch4_training_localization_transcription_gt/
 
-|   |-- ch4_test_images/
+    |-- ch4_test_images/
 
-|   |-- ch4_test_localization_transcription_gt/
+    |-- ch4_test_localization_transcription_gt/
 
